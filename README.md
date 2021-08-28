@@ -1,3 +1,3 @@
 # newwebsite
 
-click on https://github.com/Anchitsri/newwebsite/blob/main/Website/index.html
+click on https://anchitsri.github.io/newwebsite/Website/index.html
